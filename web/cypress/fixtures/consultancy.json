@@ -1,0 +1,44 @@
+{
+  "personal": {
+    "name": "Adalberto Moriati",
+    "email": "123@email.com",
+    "phone": "51 95238-1000",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "65602530070",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/1.pdf",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. ",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriverIO",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Adalberto Moriati",
+    "email": "123@email.com",
+    "phone": "51 95238-1000",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "33810761000168",
+    "discoveryChannels": [
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/1.pdf",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. ",
+    "techs": [
+      "Cypress"
+    ],
+    "terms": true
+  }
+}
